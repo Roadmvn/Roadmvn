@@ -1,6 +1,6 @@
 👋 Hi, I’m @Roadmvn
 
-👀 I’m interested in offensive cybersecurity aspects, exploring penetration testing, ethical hacking, and vulnerability assessment.
+👀 I’m interested in offensive cybersecurity aspects, exploring penetration testing, hacking, and vulnerability assessment.
 
 🌱 I’m currently learning various cybersecurity tools and techniques, including network security, malware analysis, and secure coding practices as part of my studies.
 
