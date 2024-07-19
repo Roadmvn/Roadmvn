@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on cybersecurity projects where I can learn new tips and tricks from experienced professionals in the field.
 
-😄 Pronouns: He/Him
+🔒 I’m passionate about discovering and implementing the latest cybersecurity trends to enhance security measures.
 
 ⚡ Fun fact: I enjoy learning about aspects such as cracking video games or creating bots using Cheat Engine, UO Pilot, and Macro Recorder.
 
