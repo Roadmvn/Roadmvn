@@ -1,25 +1,13 @@
 👋 Hi, I’m @Roadmvn
-
-👀 I’m interested in offensive cybersecurity aspects, exploring penetration testing, hacking, and vulnerability assessment.
-
-🌱 I’m currently learning various cybersecurity tools and techniques, including network security, malware analysis, and secure coding practices as part of my studies.
-
-💞️ I’m looking to collaborate on cybersecurity projects where I can learn new tips and tricks from experienced professionals in the field.
-
-🔒 I’m passionate about discovering and implementing the latest cybersecurity trends to enhance security measures.
-
-⚡ Fun fact: I enjoy learning about aspects such as cracking video games or creating bots using Cheat Engine, UO Pilot, and Macro Recorder.
-
-🔧 In my free time, I’m studying reverse engineering techniques using tools like Ghidra and JD-GUI.
-
-🛡️ I’m learning about steganography and its applications in hiding data within images and other files during my spare moments.
-
-📶 I’m learning about wireless security, including techniques for cracking Wi-Fi networks and understanding RFID frequencies whenever I get the chance.
-
-👥 I’m delving into social engineering tactics and methods to better understand how to protect against them, even outside of my formal studies.
-
-🌐 I’m expanding my knowledge on web application security, focusing on exploiting and protecting against common vulnerabilities in my personal projects.
-
-🗂️ I’m experimenting with various red team tools such as Metasploit, Nmap, and Wireshark to enhance my offensive security skills during my free time.
-
-📚 I’m constantly reading the latest research papers and security blogs to stay updated on the newest trends and threats in cybersecurity.
+👀 I’m into offensive cybersecurity, focusing on penetration testing, hacking, and vulnerability assessment.
+🌱 I’m currently learning about network security, malware analysis, and secure coding as part of my studies.
+💡 I’m eager to collaborate on cybersecurity projects to gain insights from experienced professionals.
+🔒 I’m passionate about staying updated with the latest cybersecurity trends and improving security measures.
+⚡ Fun fact: I enjoy experimenting with video game cracking and creating bots using tools like Cheat Engine.
+🔧 In my free time, I study reverse engineering with Cheat Engine.
+🛡️ I’m exploring steganography and its applications for hiding data.
+📶 I’m learning about wireless security, including Wi-Fi cracking and RFID.
+👥 I’m delving into social engineering to better understand and defend against it.
+🌐 I’m working on web application security, focusing on common vulnerabilities.
+🛠️ I’m experimenting with red team tools like Metasploit and Nmap to boost my skills.
+📚 I regularly read research papers and security blogs to stay informed on cybersecurity trends.
