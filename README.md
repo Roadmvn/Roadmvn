@@ -1,27 +1,10 @@
+👋 Hi, I’m @Roadmvn, passionate about offensive cybersecurity, including penetration testing, hacking, and vulnerability assessment.
 
-👋 Hi, I’m @Roadmvn
+🌱 Currently learning network security, malware analysis, and secure coding, while exploring steganography, wireless security, and social engineering.
 
-👀 I’m into offensive cybersecurity, focusing on penetration testing, hacking, and vulnerability assessment.
+🔧 In my free time, I dive into reverse engineering with Cheat Engine and experiment with red team tools like Metasploit and Nmap.
 
-🌱 I’m currently learning about network security, malware analysis, and secure coding as part of my studies.
+💡 Always eager to collaborate and learn from others in the cybersecurity field. I keep up with the latest trends through research papers and security blogs.
 
-💡 I’m eager to collaborate on cybersecurity projects to gain insights from experienced professionals.
-
-🔒 I’m passionate about staying updated with the latest cybersecurity trends and improving security measures.
-
-⚡ Fun fact: I enjoy experimenting with video game cracking and creating bots using tools like Cheat Engine.
-
-🔧 In my free time, I study reverse engineering with Cheat Engine.
-
-🛡️ I’m exploring steganography and its applications for hiding data.
-
-📶 I’m learning about wireless security, including Wi-Fi cracking and RFID.
-
-👥 I’m delving into social engineering to better understand and defend against it.
-
-🌐 I’m working on web application security, focusing on common vulnerabilities.
-
-🛠️ I’m experimenting with red team tools like Metasploit and Nmap to boost my skills.
-
-📚 I regularly read research papers and security blogs to stay informed on cybersecurity trends.
+⚡ Fun fact: I enjoy video game cracking and creating bots.
 
