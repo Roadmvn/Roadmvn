@@ -8,3 +8,4 @@
 
 ⚡ Fun fact: I enjoy video game cracking and creating bots.
 
+![icegif-502](https://github.com/user-attachments/assets/9009e68f-2f62-4bea-b5c0-8b93a2d60ea6)
