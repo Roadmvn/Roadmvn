@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9009e68f-2f62-4bea-b5c0-8b93a2d60ea6" width="400" height="300">
+  <img src="[https://github.com/user-attachments/assets/9009e68f-2f62-4bea-b5c0-8b93a2d60ea6](https://media.tenor.com/ujzJEuHYWTcAAAAM/misinformation-fake-news.gif)" width="400" height="300">
 </div>
 
 ---
