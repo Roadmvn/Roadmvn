@@ -1,51 +1,55 @@
-👋 Hi, I’m @Roadmvn, passionate about offensive cybersecurity.
+# Roadmvn
 
-🌱 Currently learning network security and secure coding, while exploring wireless security, and social engineering.
+## 👨‍💻 Aspiring Red Team Professional with Strong Cloud Expertise
 
-🔧 In my free time, I create scripts and applications, and I dive into reverse engineering with Cheat Engine. I also experiment with red team tools like Metasploit and Nmap.
+Passionate cybersecurity enthusiast on a journey to become a Red Team professional. Combining offensive security techniques with deep cloud infrastructure knowledge to build and break secure systems.
 
-⚡ Fun fact: Offensive cybersecurity is my favorite hobby! I enjoy video game cracking and creating bots.
+- 🔴 Aspiring Red Team professional with focus on offensive security
+- ☁️ Strong knowledge in cloud technologies (AWS, GCP) and secure cloud architecture
+- 🛡️ Continuously improving penetration testing skills through practical labs
+- 🌱 Exploring advanced offensive techniques in cloud environments
+- 📚 Working toward eJPT (Junior Penetration Tester) certification
+- ⚡ In my free time, I create custom scripts and experiment with reverse engineering
 
----
+## 🛠️ Technical Skills
 
-<div align="center">
-  <img src="https://media.tenor.com/ujzJEuHYWTcAAAAM/misinformation-fake-news.gif" width="400" height="300">
-</div>
-
----
-
-## 🌐 Développement Web
-
-### Langages & Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Outils
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-## 🛡️ Cybersécurité Offensive
-
-### Outils & Technologies
+### Offensive Security & Red Team
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-CB2029?style=for-the-badge)
+![Risk Analysis](https://img.shields.io/badge/Risk_Analysis-33A5FF?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-990000?style=for-the-badge)
 
-### Certifications & Formations
-![eJPT](https://img.shields.io/badge/eJPT-FF4C00?style=for-the-badge)
+### Cloud Security & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-0080FF?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge)
+![S3 Security](https://img.shields.io/badge/S3_Security-569A31?style=for-the-badge)
+![Serverless Security](https://img.shields.io/badge/Serverless_Security-FD5750?style=for-the-badge)
 
----
+### Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Roadmvn&show_icons=true&theme=cobalt)
+### DevSecOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-3C873A?style=for-the-badge)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roadmvn&show_icons=true&theme=cobalt)
+
+## 📫 Connect with Me
+- LinkedIn: [Tudy GBAGUIDI](https://www.linkedin.com/in/tudy-gbaguidi/)
