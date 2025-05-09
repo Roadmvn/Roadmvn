@@ -26,10 +26,6 @@ Passionate cybersecurity enthusiast on a journey to become a Red Team profession
 ### Cloud Security & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-0080FF?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge)
-![S3 Security](https://img.shields.io/badge/S3_Security-569A31?style=for-the-badge)
-![Serverless Security](https://img.shields.io/badge/Serverless_Security-FD5750?style=for-the-badge)
 
 ### Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
