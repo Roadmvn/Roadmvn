@@ -40,10 +40,3 @@ ____/\\\\\\\\\______/\\\\\\\\\\\\\\\__/\\\\\\\\\\\\_______________/\\\\\\\\\\\\\
   <img src="https://img.shields.io/badge/eJPT_(In_Progress)-FF4C00?style=for-the-badge" />
 </div>
 
-## 📫 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tudy-gbaguidi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
