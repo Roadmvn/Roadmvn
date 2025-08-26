@@ -10,16 +10,7 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░        ░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░                                                                                                                                                         
 ```
 
-## 📊 GitHub Stats
 
-<br clear="both"/>
-
-<div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Roadmvn&theme=cobalt" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=Roadmvn&theme=nord&column=3&row=2" />
-</div>
-
-<br clear="both"/>
 
 ## 📈 Contribution Graph
 
