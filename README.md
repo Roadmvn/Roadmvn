@@ -11,18 +11,18 @@
 ```
 
 
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Roadmvn&theme=react-dark" />
-</div>
-
-## 🏆 Achievements & Certifications
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack-The-Box" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe" />
-  <img src="https://img.shields.io/badge/eJPT_(In_Progress)-FF4C00?style=for-the-badge" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roadmvn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roadmvn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roadmvn&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+
 
