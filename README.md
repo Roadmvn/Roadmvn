@@ -15,9 +15,6 @@
 <td valign="top" width="55%">
 
 <pre>
-╔════════════════════════════════════════╗
-║ BIOS v1.0 - Offensive Security Unit    ║
-╚════════════════════════════════════════╝
 
 $ nc -lvnp 443
 connect to [YOU] from [Roadmvn] 31337
