@@ -10,19 +10,37 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░        ░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░                                                                                                                                                         
 ```
 
+<table>
+<tr>
+<td valign="top" width="55%">
 
-## 📊 GitHub Analytics
+```
+╔════════════════════════════════════════╗
+║ BIOS v1.0 - Offensive Security Unit    ║
+╚════════════════════════════════════════╝
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roadmvn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roadmvn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+$ nc -lvnp 443
+connect to [YOU] from [Roadmvn] 31337
 
-## 📈 Contribution Activity
+$ id
+uid=1337(Roadmvn) gid=1337(security)
+groups=earth:81,offensive-sec
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roadmvn&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+$ cat /etc/mission
+► CLASSIFIED - Access Denied
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[■■■■■■■░░░░░░░░░░░░░] 35% grinding...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
+</td>
+<td valign="top" width="45%">
 
+### 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roadmvn&theme=tokyo-night&hide_border=true&area=true" />
+
+</td>
+</tr>
+</table>
